@@ -6,4 +6,4 @@
 Python、C、DSH、Comfy UI
 ### 想聊
 - 插件用法 / 主题规格 / 提 bug：直接在仓库提 issue，比私信快
-- 其他：mothworm@users.noreply.github.com
+- 其他：55247777+mothworm@users.noreply.github.com
